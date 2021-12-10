@@ -1,0 +1,32 @@
+﻿product_id,product_name,category_id,list_price,available_qty
+P12345,Chateau de Camarsac Bordeaux Superieur,100,14.99,20
+P12346,"Chateau Haut Bages Liberal Pauillac, 2018",100,13.97,20
+P12347,"Chateau Bois Redon Bordeaux Superieur, 2018",100,9.99,25
+P12348,"Carmen Gran Reserva Cabernet Sauvignon, 2018",100,19.99,15
+P12349,"Amici Cabernet Sauvignon Napa, 2018",100,18.97,15
+P12350,Josh Cellars Bourbon Barrel Cabernet Sauvignon Family Reserve,100,7.89,10
+P12351,1858 Red Blend,100,11.99,17
+P12352,"Parcelica Grande Red Blend, 2018",100,12.99,15
+P12353,Il Duca Imperiale Red,100,16.99,19
+P12354,"Mascota Vineyards Unanime Malbec, 2017",100,18.97,9
+P12355,"Catena Malbec, 2018",100,20.99,8
+P12356,Alamos Malbec,100,6.97,13
+P12357,Radius Merlot,100,8.99,16
+P12358,"J Lohr Merlot Los Osos, 2018",100,15.99,20
+P12359,"Duckhorn Merlot Napa, 2017",100,17.99,19
+P12360,Butter Knife Chardonnay,200,16.99,12
+P12361,"Iter Chardonnay California, 2019",200,12.99,20
+P12362,Tiny Umbrellas Moscato,200,13.99,7
+P12363,Tiny Umbrellas Pink Moscato,200,14.99,9
+P12364,Tesoro della Regina Pinot Grigio,200,12.97,20
+P12365,Armani Pinot Grigio Venezie,200,11.99,17
+P12366,Chateau Ste Michelle Riesling,200,10.97,14
+P12367,"Clean Slate Riesling, 2019",200,10.99,10
+P12368,"Samuel Robert Rose Willamette Vintner's Reserve, 2020",300,11.99,20
+P12369,"Olema Rose Cotes De Provence, 2020",300,12.99,19
+P12370,Louis Bouillot Perle de Vigne Brut,300,14.97,10
+P12371,Tsarine Brut Premium Cuvee,300,14.99,18
+P12372,La Vostra Prosecco,300,17.99,9
+P12373,Borrasca Prosecco Rose,300,12.97,10
+P12374,Veuve Clicquot Brut Rose Champagne,300,15.99,13
+P12375,Borrasca Rose Cava,300,15.99,8
