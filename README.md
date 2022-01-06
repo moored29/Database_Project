@@ -22,17 +22,18 @@
 
 
 
-- Customers – A person who buys products .
-- Address – Address where an order can be delivered.
-- Zip_code – Zip code details of a customer’s address.
-- Orders – Describes which customers made the order and the shipping status.
-- Order_items – Contains details of the items purchased such as product id.
-- Products – Type of beverage (goods) purchased by the customer.
-- Product_desc – Details information on each product (name, price, type, etc.).
-- Categories – Groups each type of product.
-- Varietal – Groups each product into smaller categories of wine type.
-- Billing – Includes the total amount for purchased products.
-- Payments – Stores customer payment information and type.
+- [ ] Customers – A person who buys products .
+- [ ] Address – Address where an order can be delivered.
+- [ ] Zip_code – Zip code details of a customer’s address.
+- [ ] Orders – Describes which customers made the order and the shipping status.
+- [ ] Order_items – Contains details of the items purchased such as product id.
+- [ ] Products – Type of beverage (goods) purchased by the customer.
+- [ ] Product_desc – Details information on each product (name, price, type, etc.).
+- [ ] Categories – Groups each type of product.
+- [ ] Varietal – Groups each product into smaller categories of wine type.
+- [ ] Billing – Includes the total amount for purchased products.
+- [ ] Payments – Stores customer payment information and type.
+
 
 
 
