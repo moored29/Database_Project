@@ -1,6 +1,6 @@
 # Database Management for Online Web Application
 
-### Scope of Project:
+### Project Scope:
 
 * The goal of this project is to build a database for an online beverage company. Customers can purchase a variety of wine products through the company website.
 * This project helps in designing a unique database containing business information that can be used to analyze data the company is looking for.
@@ -33,6 +33,7 @@
 - [ ] Varietal – Groups each product into smaller categories of wine type.
 - [ ] Billing – Includes the total amount for purchased products.
 - [ ] Payments – Stores customer payment information and type.
+
 
 
 
